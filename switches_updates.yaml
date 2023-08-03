@@ -2,8 +2,8 @@
 project_name: Ansible_Demo_Project
 template_name: switches_logging
 
-filter: role
-filter_value: ACCESS
+filter: device_family
+filter_value: Cisco Catalyst 9800-CL Wireless Controller for Cloud
 
 cli_template: |
   !
