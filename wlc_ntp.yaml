@@ -7,8 +7,7 @@ filter_value: Cisco Catalyst 9800-CL Wireless Controller for Cloud
 
 cli_template: |
   !
-  logging host 10.93.141.37
-  logging host 10.93.141.37 transport udp port 8514
+  no ntp server 10.64.58.50
   !
   service timestamps debug datetime localtime
   service timestamps log datetime localtime
