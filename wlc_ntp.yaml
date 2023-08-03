@@ -1,5 +1,5 @@
 
-project_name: Ansible_Demo_Project
+project_name: Ansible_Demo
 template_name: wlc_9800_ntp
 
 filter: device_family
