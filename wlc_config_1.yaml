@@ -1,9 +1,9 @@
 
 project_name: Ansible_Demo
-template_name: wlc_9300_config
+template_name: wlc_9800_config
 
 filter: device_family
-filter_value: Cisco Catalyst 9300 Switch
+filter_value: Cisco Catalyst 9800-CL Wireless Controller for Cloud
 
 cli_template: |
   !
