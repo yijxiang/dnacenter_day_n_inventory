@@ -1,0 +1,9 @@
+ap_inventory:
+- hostname: AP286F.7FCF.4F00
+  device_ip: 100.0.210.200
+  device_id: b96ede00-bd47-4f2b-966a-2e390e33f323
+  version: 17.9.1.8
+  device_family: Cisco 3800I Unified Access Point
+  role: ACCESS
+  site: Global/APJC/SHN17/Dawning/21F
+  site_id: ce2faeff-a244-4f86-98cd-310c9527d5d6
