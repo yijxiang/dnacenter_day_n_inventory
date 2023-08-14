@@ -6,5 +6,5 @@ filter_value: DISTRIBUTION
 
 cli_template: |
   !
-  clock timezone BJ 8 
+  clock timezone BeiJing 8 
   service timestamps log datetime localtime show-timezone
