@@ -7,6 +7,6 @@ filter_value: Cisco Catalyst 9800-CL Wireless Controller for Cloud
 
 cli_template: |
   !
-  clock timezone shanghai 8
+  clock timezone shanghai 7
   service timestamps log datetime localtime show-timezone
 
