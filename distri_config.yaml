@@ -1,0 +1,10 @@
+project_name: Ansible_Demo
+template_name: demo_distribution_config
+
+filter: role
+filter_value: DISTRIBUTION
+
+cli_template: |
+  !
+  clock timezone BJ 8 
+  service timestamps log datetime localtime show-timezone
