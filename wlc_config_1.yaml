@@ -1,6 +1,6 @@
 
-project_name: Ansible_Demo
-template_name: demo_9800_config
+project_name: Ansible_Demo_0818
+template_name: demo_9800_0818
 
 filter: device_family
 filter_value: Cisco Catalyst 9800-CL Wireless Controller for Cloud
