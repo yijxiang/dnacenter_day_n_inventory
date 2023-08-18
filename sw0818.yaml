@@ -1,0 +1,10 @@
+project_name: Ansible_Demo_0818
+template_name: demo_9300
+
+filter: role
+filter_value: ACCESS
+
+cli_template: |
+  !
+  clock timezone BeiJing 8
+  service timestamps log datetime localtime show-timezone
